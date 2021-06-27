@@ -41,21 +41,23 @@ namespace Dev6a
             }
         }
 
-        public void bubble(int[] arr)
+        static public void BubbleSort<T>(T[] array) where T : IComparable
         {
-            int temp;
-            for (int j = 0; j <= arr.Length - 2; j++)
+          var somethingChanged = true;
+          while (somethingChanged)
+          {
+            somethingChanged = false;
+            for (int i = 0; i < array.Length - 1; i++)
             {
-                for (int i = 0; i <= arr.Length - 2; i++)
-                {
-                    if (arr[i] > arr[i + 1])
-                    {
-                        temp = arr[i + 1];
-                        arr[i + 1] = arr[i];
-                        arr[i] = temp;
-                    }
-                }
+              if (array[i].CompareTo(array[i + 1]) > 0)
+              {
+                var temp = array[i + 1];
+                array[i + 1] = array[i];
+                array[i] = temp;
+                somethingChanged = true;
+              }
             }
+          }
         }
 
         /*static void mergeSort(int[] array, int l, int r)
