@@ -1,0 +1,16 @@
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.csproj.AssemblyReference.cache
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.AssemblyInfoInputs.cache
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.AssemblyInfo.cs
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.csproj.CoreCompileInputs.cache
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.exe
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.deps.json
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.runtimeconfig.json
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.runtimeconfig.dev.json
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.dll
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\ref\Dev6a.dll
+G:\Dev\Dev6a\Dev6a\bin\Debug\net5.0\Dev6a.pdb
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.dll
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\ref\Dev6a.dll
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.pdb
+G:\Dev\Dev6a\Dev6a\obj\Debug\net5.0\Dev6a.genruntimeconfig.cache
