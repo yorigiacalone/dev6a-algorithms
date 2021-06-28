@@ -58,6 +58,25 @@ namespace Dev6a
             }
         }
 
+        static public void BubbleSort<T>(T[] array) where T : IComparable
+        {
+            var somethingChanged = true;
+            while (somethingChanged)
+            {
+                somethingChanged = false;
+                for (int i = 0; i < array.Length - 1; i++)
+                {
+                    if (array[i].CompareTo(array[i + 1]) > 0)
+                    {
+                        var temp = array[i + 1];
+                        array[i + 1] = array[i];
+                        array[i] = temp;
+                        somethingChanged = true;
+                    }
+                }
+            }
+        }
+        
         /*static void mergeSort(int[] array, int l, int r)
         {
             //If the value of element l isnt smaller than the value of element r, the array has only one element left and it is considered already sorted:
